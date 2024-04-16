@@ -20,8 +20,8 @@
 
 **⚡️ Recent activity** 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
-2. 📓 Created new repository [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
+⬆️ Pushed 1 commit(s) to [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
+📓 Created new repository [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
