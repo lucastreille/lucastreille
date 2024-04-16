@@ -19,6 +19,8 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp1bDh6aDRlZHBycGU5cjNwejZrYjNwYzJxZGl2Y2s0a3gwaTFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPy2wTXW9BJok/giphy.gif"/></br>
 
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 
 <!--START_SECTION:waka_data-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
