@@ -15,7 +15,7 @@ settings:
   #commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
   #line_prefix: "{NUM}. "
   #ignored_repos:
-    - username/repo
+    #- username/repo
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
   push: "⬆️ Pushed {AMOUNT} commit(s) to {REPO}"
