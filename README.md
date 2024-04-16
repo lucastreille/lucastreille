@@ -18,14 +18,11 @@
 <p>or not...</p>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp1bDh6aDRlZHBycGU5cjNwejZrYjNwYzJxZGl2Y2s0a3gwaTFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PPy2wTXW9BJok/giphy.gif"/></br>
 
+**⚡️ Recent activity** 
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
 2. 📔 Created new repository [lucastreille/jakarta-project](https://github.com/lucastreille/jakarta-project)<br>
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, April 16th, 2024, 12:55:53 PM
-<!--RECENT_ACTIVITY:last_update_end-->
-
 
 <!--START_SECTION:waka_data-->
 **🐱 My GitHub Data** 
