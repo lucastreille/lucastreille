@@ -22,7 +22,7 @@
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
 > ⬆️ Pushed 1 commit(s) to [Cxlxst/triumpha](https://github.com/Cxlxst/triumpha)<br>
 <!--RECENT_ACTIVITY:end-->
