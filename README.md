@@ -24,7 +24,7 @@
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed 1 commit(s) to [Cxlxst/noteBuster](https://github.com/Cxlxst/noteBuster)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
