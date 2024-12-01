@@ -22,7 +22,7 @@
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed 1 commit(s) to [lucastreille/CV-TECH-FRONT](https://github.com/lucastreille/CV-TECH-FRONT)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/CV-TECH-FRONT](https://github.com/lucastreille/CV-TECH-FRONT)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/CV-TECH-FRONT](https://github.com/lucastreille/CV-TECH-FRONT)<br>
 <!--RECENT_ACTIVITY:end-->
