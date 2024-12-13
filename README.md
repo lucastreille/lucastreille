@@ -22,9 +22,9 @@
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/Mircro-service](https://github.com/lucastreille/Mircro-service)<br>
 > ⬆️ Pushed 2 commit(s) to [lucastreille/Mircro-service](https://github.com/lucastreille/Mircro-service)<br>
-> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
