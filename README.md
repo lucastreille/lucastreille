@@ -22,7 +22,7 @@
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed 1 commit(s) to [lucastreille/bigdata](https://github.com/lucastreille/bigdata)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/bigdata](https://github.com/lucastreille/bigdata)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/bigdata](https://github.com/lucastreille/bigdata)<br>
 <!--RECENT_ACTIVITY:end-->
