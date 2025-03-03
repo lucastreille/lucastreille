@@ -22,7 +22,7 @@
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed 1 commit(s) to [lucastreille/social-network-graphql](https://github.com/lucastreille/social-network-graphql)<br>
+> ⬆️ Pushed 1 commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/social-network-graphql](https://github.com/lucastreille/social-network-graphql)<br>
 > ⬆️ Pushed 1 commit(s) to [lucastreille/social-network-graphql](https://github.com/lucastreille/social-network-graphql)<br>
 <!--RECENT_ACTIVITY:end-->
