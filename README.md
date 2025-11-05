@@ -23,7 +23,7 @@
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/crm-go](https://github.com/lucastreille/crm-go)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/crm-go](https://github.com/lucastreille/crm-go)<br>
-> 💪 Opened PR [#1](undefined) in [lucastreille/crm-go](https://github.com/lucastreille/crm-go)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/crm-go](https://github.com/lucastreille/crm-go)<br>
 <!--RECENT_ACTIVITY:end-->
 
