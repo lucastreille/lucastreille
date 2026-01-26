@@ -23,8 +23,8 @@
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/task-manager](https://github.com/lucastreille/task-manager)<br>
-> 💪 Opened PR [#1](undefined) in [lucastreille/task-manager](https://github.com/lucastreille/task-manager)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
