@@ -21,10 +21,10 @@
 <img width="20px" src="https://camo.githubusercontent.com/98305f2e1d7cd74cfeefb6e90e8f5829d0a129b5aff576116fcccc3af5361992/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"/> **Recent activity** 
 <!--RECENT_ACTIVITY:start-->
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/task-manager](https://github.com/lucastreille/task-manager)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
+> ❌ Closed PR [#2](undefined) in [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
+> 💪 Opened PR [#2](undefined) in [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
