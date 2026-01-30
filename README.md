@@ -23,8 +23,8 @@
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
-> ❌ Closed PR [#2](undefined) in [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
