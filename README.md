@@ -24,7 +24,7 @@
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/pixelarena-equipe9](https://github.com/lucastreille/pixelarena-equipe9)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--START_SECTION:waka_data-->
