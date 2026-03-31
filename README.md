@@ -23,7 +23,7 @@
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
-> ⬆️ Pushed undefined commit(s) to [lucastreille/neocity-starter](https://github.com/lucastreille/neocity-starter)<br>
+> ⬆️ Pushed undefined commit(s) to [lucastreille/lucastreille](https://github.com/lucastreille/lucastreille)<br>
 > ⬆️ Pushed undefined commit(s) to [lucastreille/neocity-starter](https://github.com/lucastreille/neocity-starter)<br>
 <!--RECENT_ACTIVITY:end-->
 
